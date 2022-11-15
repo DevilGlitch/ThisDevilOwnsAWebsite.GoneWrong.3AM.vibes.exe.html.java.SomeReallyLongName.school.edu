@@ -4,7 +4,7 @@
 
 Hey There!<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is not completed</p>
 <p>So enjoy what I have finished so far</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p>BTD 5<a href="/btd5.html"> game</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p>BTD 5<a href="/games/btd5.html"> game</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p>I hope everything works properly <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
 
